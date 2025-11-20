@@ -16,6 +16,8 @@ ALB distributes traffic to EC2 instances managed by an Auto Scaling Group.
 
 
 ---
+<img width="1280" height="720" alt="OUSSAMA sefiani aws" src="https://github.com/user-attachments/assets/5a45f165-08b7-4d87-aa85-69295f249788" />
+
 
 ## 🛠 AWS Services Used
 
