@@ -28,7 +28,6 @@ ALB distributes traffic to EC2 instances managed by an Auto Scaling Group.
 | **Auto Scaling Group** | Scales instances based on demand |
 | **IAM Role + Instance Profile** | Secure permissions for EC2 |
 | **CloudWatch + SNS** | Monitoring + alerts |
-| **S3 (optional)** | Store static assets or logs |
 | **SSM Session Manager** | Secure access without SSH |
 
 >No database is used in this version — the application runs stateless.
